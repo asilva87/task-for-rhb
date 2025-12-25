@@ -1,0 +1,18 @@
+# ---- Data files ----
+data/
+*.parquet
+*.csv
+
+# ---- Python cache / env ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ---- OS / editor files ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
