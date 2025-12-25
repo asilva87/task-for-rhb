@@ -23,7 +23,8 @@ analytics-ready output.
 
 ---
 
-**Context**  
+## Context
+
 This small project was created to show my interest in the position of  
 **Data Engineer (50–100%) at RhB**  
 (https://www.rhb.ch/de/job/data-engineer-50-100_2025-2097/).  
@@ -31,6 +32,8 @@ This small project was created to show my interest in the position of
 It is intentionally lightweight and local, and focuses on clear structure,
 reasonable data-quality decisions, and explainable results rather than on
 tooling or cloud infrastructure.
+
+---
 
 ## Purpose
 
