@@ -1,5 +1,8 @@
 # Train Delay Analytics – Minimal ELT Pipeline
 
+## Please download the CSV file and place it under "data"
+https://www.kaggle.com/datasets/nokkyu/deutsche-bahn-db-delays
+
 > **Context**  
 > This small project was created to show my interest in the position of  
 > **Data Engineer (50–100%) at RhB**  
