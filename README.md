@@ -5,6 +5,24 @@ https://www.kaggle.com/datasets/nokkyu/deutsche-bahn-db-delays
 
 ---
 
+## Results (short summary)
+
+As a simple example analysis, the data was aggregated by station category to
+calculate delay rates (delay defined as arrival delay > 6 minutes).
+
+**Key observations:**
+- Overall delay rates are relatively low (roughly 3.5%–4.8%).
+- Larger and more complex stations (categories 1–3) show slightly higher delay
+  rates than smaller or regional stations (categories 4–5).
+- The differences between categories are moderate, suggesting a generally
+  robust network rather than isolated extreme problem areas.
+
+These results are intentionally simple and mainly serve to demonstrate a
+clean data pipeline and a transparent, reproducible way of deriving an
+analytics-ready output.
+
+---
+
 **Context**  
 This small project was created to show my interest in the position of  
 **Data Engineer (50–100%) at RhB**  
